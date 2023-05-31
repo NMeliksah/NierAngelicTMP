@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9677d55407301624b86adc5a986a1304
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Angelic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84e5431bb5c706549893fc4073792874, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
